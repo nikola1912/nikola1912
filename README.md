@@ -1,6 +1,6 @@
 # Hi, I'm Nikola 👋
 
-Senior Fullstack Engineer • React/Next.js • React Native • Node.js • TypeScript
+### Senior Fullstack Engineer • React/Next.js • React Native • Node.js • TypeScript
 
 - 🔭 Currently working on: [**LetterFlow**](https://letterflow.app) — *your home for newsletters* (clean, focused reading + organization)
 - 🧠 Learning: Go & Rust for backend tooling + performance-sensitive stuff
